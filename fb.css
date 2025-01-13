@@ -1,0 +1,196 @@
+.header{
+    width: 100%;
+    height: 90px;
+    background: #475fa6;
+    
+}
+body{
+    margin: 0;
+    font-family: Helvetica, Arial, sans-serif;
+}
+.logo{
+    width: 50%;
+    padding-top: 30px;
+    float: left;
+}
+.login{
+    width: 50%;
+    float: left;
+    
+}
+.logo-text{
+    color: #fff;
+    font-size: 45px;
+    font-weight: bold;
+    text-decoration: none;
+    font-family: Helvetica, Arial, sans-serif;
+    margin-left: 200px;
+    margin-top: 20px;
+    
+
+
+}
+.login-label{
+    color: #fff;
+    font-size: 12px;
+}
+.login-controls{
+    padding: 13px;
+    padding-left: 130px;
+}
+.Forgotten{
+    color: #fff;
+    text-decoration: none;
+    font-size: 13px;
+    font-family: Helvetica, Arial, sans-serif;
+    
+}
+.logbutton{
+    background-color: #475fa6;
+    border-color:#29487d;
+    color:#fff;
+    height: 20px;
+    margin-left: 15px;
+    font-family: Helvetica, Arial, sans-serif;
+    cursor: pointer;
+    
+}
+.logbutton:hover{
+    background: #094098;
+}
+.main-page{
+    background:linear-gradient(white,#D3D8E8) ;
+    width: 100%;
+    height: 550px;
+    margin-top: 50px;
+}
+.left-page{
+    width: 50%;
+    float:left;
+    padding-left: 240px;
+}
+.right-page{
+    width: 30%;
+    float: left;
+    
+    
+}
+.fbimg{
+   width: 600px; 
+}
+.para{
+    font-weight: bold;
+    font-size: 25px;
+}
+.userdata{
+    height: 30px;
+    border-radius: 3px;
+    width:170px;
+    border-color: gray;
+    border-style:initial;
+    
+}
+h1{
+    font-family: Helvetica, Arial, sans-serif;
+}
+#usd{
+   margin: 10px;
+}
+.userdata1{
+    height: 30px;
+    border-radius: 3px;
+    width: 372px;
+    margin-left: 10px;
+}
+.userdata12{
+    height: 30px;
+    border-radius: 3px;
+    width: 372px;
+    margin-left: 10px;
+    margin-top: 10px;
+
+}
+.userdata123{
+    height: 30px;
+    border-radius: 3px;
+    width: 170px;
+    margin-left: 10px;
+}
+ulabel{
+    
+    font-size: 10px;
+    float: right;
+    color:blue;
+    
+    
+    
+}
+.left-dob{
+    width: 10%;
+}
+.right-dob{
+    width: 90%;
+    float: left;
+    
+    
+    
+}
+#dob{
+   font-family: Helvetica, Arial, sans-serif;
+}
+
+input{
+   
+    border-style: initial;
+}
+.questionicon{
+    width:24px;
+    height:24px;
+    background-color: gray;
+    color:white;
+    font-size: 16px;
+    font-weight:bold;
+    text-align: center;
+    line-height: 24px;
+    border-radius: 50%;
+    cursor: pointer;
+    
+}
+.submit-button{
+    margin-top: 15px;
+    background-color:  #42b72a;
+    color: white;
+    padding: 10px 60px; /* increase space inside button */
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;  
+}
+.submit-button:hover{
+    background-color: #45a049;
+}
+.graytext{
+    color: gray;
+    font-size: 15px;
+}
+.terms-words{
+    font-size: 11px;
+    color: gray;
+}
+.no-underline{
+    text-decoration: none;
+    color: blue;
+}
+.albin{
+    background-color: white;
+    width: 100%;
+    height: 50px;
+    margin-top: 10px;
+    padding-top: 10px;
+    padding-left: 10px;
+    border-radius: 5px;
+    color: gray;
+
+    border-style: initial;
+}
+
